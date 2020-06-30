@@ -1,24 +1,25 @@
-# Instructions
+
+# Travelling Salesman: The Game
+
+## Story
+
+You are a pirate in the year 1275 and you are currently in Khanbaliq/Dadu. The game starts in the town square and your mission is to find the hidden chest and unlock it.
+
+The map can be found [here.](map.png)
+
+## Instructions
 
 This is a text based game.
 
-## How to compile
+### How to compile
 
 Write "make" in the terminal while in current folder.
 
 Tested on Ubuntu 18.04.1
 
-## How to run
+### How to run
 
 Write ./make.out in the terminal.
-
-## Game
-
-### Story
-
-You are a pirate in the year 1275 and you are currently in Khanbaliq/Dadu. The game starts in the town square and your mission is to find the hidden chest and unlock it.
-
-The map can be found [here.](https://gits-15.sys.kth.se/cprog19/jhaddad-labbar/blob/master/10/map.png)
 
 ### Commands
 
@@ -49,4 +50,4 @@ You can also use the following shortcuts:
 | s        | go south              |
 | w        | go west               |
 
-A list of command which leads to a win can be found [here.](https://gits-15.sys.kth.se/cprog19/jhaddad-labbar/blob/master/10/win_command.txt)
+A list of command which leads to a win can be found [here.](win_command.txt)

@@ -1,0 +1,10 @@
+go north
+take sword
+take shovel
+go south
+go east
+swap tradesman sword key
+go west
+go west
+dig shovel
+unlock chest key

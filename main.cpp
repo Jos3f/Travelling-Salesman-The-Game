@@ -288,7 +288,7 @@ void swap(Player *player, std::vector <std::string> words) {
 
         } else {
             ((player->holds_items)).erase(item_from);
-            std::cout << "You don't carry an item called " << words[0] << "." << '\n';
+            std::cout << "You don't carry an item called " << item_from << "." << '\n';
         }
     } else {
         std::cout
